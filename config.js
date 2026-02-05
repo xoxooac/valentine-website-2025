@@ -49,8 +49,8 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Yay! I'm the luckiest person in the world! 🎉💝💖💝💓",
-        message: "Now come get your gift, a big warm hug and a huge kiss!",
+        title: "ayyy u da the luckiest person in the world,you mines babyboo! 🎉☺️💖💝",
+        message: "Now come get your big warm hug and a huge kiss!",
         emojis: "🎁💖🤗💝💋👅😏"  // These will bounce around
     },
 
